@@ -1,3 +1,6 @@
 /vendor
+/php/vendor
+/php/composer.lock
 /.idea
 /git tests/_output
+/php/.lock
